@@ -1,0 +1,22 @@
+#Table {
+    position: fixed;
+    margin: 20px;
+    padding: 10px;
+    left: 0;
+}
+
+#NameDiv {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+#NameDiv label {
+    margin-right: 10px;
+    width: 100px;
+}
+
+#NameDiv select {
+    margin-right: 10px;
+    width: 80px;
+}

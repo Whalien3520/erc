@@ -1,0 +1,36 @@
+/* Header.css */
+#Header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 20px;
+    padding: 10px;
+    text-align: left;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.header tr {
+    font-size: 12px;
+    line-height: 0px;
+}
+
+.header input {
+    width: 100px;
+}
+
+.header select {
+    height: 28px;
+    width: 100%;
+}
+
+.label {
+    text-align: left;
+    width: 160px;
+}
